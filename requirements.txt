@@ -1,0 +1,10 @@
+# requirements.txt
+
+fastapi
+uvicorn[standard]
+python-multipart
+langchain
+langchain-openai
+pandas
+tabulate
+mit-license
